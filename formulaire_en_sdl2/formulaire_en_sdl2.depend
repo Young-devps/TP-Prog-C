@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1531012318 source:c:\users\young-dev-&creator\desktop\formulaire_en_sdl2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_events.h>
+	<SDL2/SDL_ttf.h>
+	<string.h>
+

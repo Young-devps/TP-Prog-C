@@ -1,0 +1,1 @@
+Bienvenue dans 'my Book-Shop' un logiciel de gestion d'une librairie, concue par Jordy Bayo et AL. 

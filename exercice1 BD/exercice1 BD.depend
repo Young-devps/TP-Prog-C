@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1524291599 source:c:\users\varus pro\desktop\couleur_ascii\exercice1 bd\main.c
+	<stdio.h>
+	<stdlib.h>
+	"structure.h"
+	"fonction.h"
+
+1524279159 c:\users\varus pro\desktop\couleur_ascii\exercice1 bd\structure.h
+
+1524312846 c:\users\varus pro\desktop\couleur_ascii\exercice1 bd\fonction.h
+
+1525313550 source:d:\varus\couleur_ascii\exercice1 bd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structure.h"
+	"fonction.h"
+	"fonction1.h"
+
+1524279159 d:\varus\couleur_ascii\exercice1 bd\structure.h
+
+1525311114 d:\varus\couleur_ascii\exercice1 bd\fonction.h
+
+1525313852 d:\varus\couleur_ascii\exercice1 bd\fonction1.h
+
+1525313552 source:i:\exercice1 bd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structure.h"
+	"fonction.h"
+	"fonction1.h"
+
+1524279160 i:\exercice1 bd\structure.h
+
+1525311116 i:\exercice1 bd\fonction.h
+
+1525313854 i:\exercice1 bd\fonction1.h
+
+1525317152 source:d:\exercice1 bd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structure.h"
+	"fonction.h"
+	"fonction1.h"
+
+1524282760 d:\exercice1 bd\structure.h
+
+1525314716 d:\exercice1 bd\fonction.h
+
+1527941113 d:\exercice1 bd\fonction1.h
+

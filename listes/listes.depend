@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1531375884 source:e:\programing research\c recherche\listes\list.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1531377597 e:\programing research\c recherche\listes\list.h
+
+1531377614 source:e:\programing research\c recherche\listes\main.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+

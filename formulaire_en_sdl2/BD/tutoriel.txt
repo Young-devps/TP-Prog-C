@@ -1,0 +1,11 @@
+accueil
+
+----se connecter en tant que super-Utilisateur (Boss/PAtron du 	millieu), vous permet d'avoir un appercue sur toutes les 	fonctionnalités que peut gerer un patron dans sa librairie.
+
+----se connecter en tant que employer vous permet de pouvoir 	gerer les fonctionnalités que peuvent gerer un employer dans 	une  librairie.
+
+----gerer les parametres de connexion generale permet au super-Utilisateur d'ajouter,supprimer,consulter ou encore modifier les parametres de connection tels que un mot de passe oublié.
+
+satatistique
+---Les statistiques mensuelle vous permettent d'avoir un apperçue sur la gestion mensuelle des facture(combien de facture deja enregistrer dans le systeme) , des ventes (qui vous donne la possibilité d'illustrer l'evolution des ventes par un graphe), les stocks , les employer (commentt connaitre qui a vendu tel ou tel jour?) ayer donc un control total des chose.
+---Cliquer juste sur le choix et une surface apparait vous illustrer les faits. 

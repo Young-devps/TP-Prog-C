@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1528457694 source:e:\c recherche\fichier\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1528607675 source:e:\programing research\c recherche\fichier\main.c
+	<stdio.h>
+	<stdlib.h>
+	<dirent.h>
+

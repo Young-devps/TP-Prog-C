@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1531373221 source:e:\programing research\c recherche\pile\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1531373191 e:\programing research\c recherche\pile\stack.h
+
+1531371737 source:e:\programing research\c recherche\pile\stack.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
